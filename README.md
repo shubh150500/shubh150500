@@ -1,49 +1,24 @@
-<h1 style="text-align: center;">💫 Hi 👋, I'm Shubham Singh</h1>
-
-## 🔗 I am a Fullstack Developer. 😊😊
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-
-- 👨‍💻 **Current Role**:Software Engineer
-- 💻 **I’m currently learning:** Core Dsa And React
-- 👯 **I’m looking to collaborate on:** Exciting tech projects, particularly in frontend & backend development 
-- 💬 **Ask me about:** Collaboration opportunities, technical support, and problem-solving
-- 📫 **How to reach me:** Shubhamrajput7667@gmail.com
+# 💫 About Me:
+I’m a Full Stack Developer who works mainly with the MERN stack (MongoDB, Express, React, Node). I enjoy building real-world web apps from scratch — from designing the frontend to handling the backend and database.<br>Along with development, I also work with data. I use tools like Python and SQL to analyze data and find useful insights. I also have a basic understanding of cyber security, which helps me build applications that are safer and more reliable.<br>I like learning new things, solving problems, and improving my skills every day. I’m looking for opportunities where I can build impactful projects and grow as a developer.
 
 
 ## 🌐 Socials:
-Connect with me if you want to collaborate or have any questions! <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin%20Upadhyay-blue?logo=linkedin&logoColor=white)]([https://in.linkedin.com/in/sachin-kumar-upadhyay-301b35278?trk=people-guest_people_search-card](https://www.linkedin.com/in/shubham-singh-8a4535371?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Instagram](https://img.shields.io/badge/Instagram-Sachin%20Upadhyay-pink?logo=instagram&logoColor=white)]([https://www.instagram.com/upadhyaysachin414](https://www.instagram.com/shubh_s23_?igsh=MTZseGJjcDJyZnZlNQ==))
-[![Facebook](https://img.shields.io/badge/Facebook-Sachin%20Upadhyay-blue?logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100011625990307](https://www.facebook.com/shubham.rajput.3762))
-[![](https://visitcount.itsvg.in/api?id=upadhyaysachin414&icon=1&color=4)](https://visitcount.itsvg.in)
-### 🌟 Fun Facts About Me
-- ☕ Powered by endless cups of chai ☕
-- 🎮 Love playing strategy games in free time
-- 🚀 Always exploring new tech stacks and frameworks
-- 📚 Currently diving deeper into Spring Boot and microservices architecture
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shubham.rajput.3762) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubh_s23_?igsh=MTZseGJjcDJyZnZlNQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-singh-8a4535371?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamrajput7667@gmail.com) 
 
 # 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shubh150500&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shubh150500&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubh150500&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SACHINUPADHYAY414&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <b style="display: block; margin-bottom: 10px;">📊 GitHub Stats</b>
-    <img src="https://github-readme-stats.vercel.app/api?username=SACHINUPADHYAY414&show_icons=true&theme=dark" alt="GitHub Stats" height="170" />
-  </div>
-  <div style="text-align: center;">
-    <b style="display: block; margin-bottom: 10px;">📈 GitHub Streak</b><img src="https://streak-stats.demolab.com/?user=SACHINUPADHYAY414&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+![](https://github-profile-trophy.vercel.app/?username=shubh150500&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  </div>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://komarev.com/ghpvc/?username=shubh150500&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
